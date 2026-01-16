@@ -6,8 +6,6 @@ Quickky is a UI/UX case study project inspired by Blinkit, focused on designing 
 View the full design and interactive prototype here:  
 🔗 https://www.figma.com/design/uthm03TTizxU5D0NBSHy8N/Quickky
 
----
-
 ## Project Overview
 This project explores how thoughtful UX design can improve:
 - Product discovery  
@@ -17,8 +15,6 @@ This project explores how thoughtful UX design can improve:
 
 The goal was to design an interface that feels **clean, fast, and easy to use**.
 
----
-
 ## Key Features Designed
 - Onboarding screens  
 - Home screen with product discovery  
@@ -27,8 +23,6 @@ The goal was to design an interface that feels **clean, fast, and easy to use**.
 - Cart and checkout flow  
 - Consistent UI components  
 
----
-
 ## What This Project Demonstrates
 - UX thinking and problem solving  
 - User flow creation  
@@ -36,13 +30,6 @@ The goal was to design an interface that feels **clean, fast, and easy to use**.
 - Visual hierarchy and consistency  
 - High-fidelity UI design  
 
----
-
 ## Tools Used
 - Figma (Design, Components, Prototyping)
-
----
-
-## 📸 Screenshots (Optional)
-You can add exported screens from Figma like this:
 
